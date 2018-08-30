@@ -3,7 +3,7 @@
 libjass is a JavaScript library written in TypeScript to render ASS subs in the browser. [Check out the demo.](http://arnavion.github.io/libjass/demo/index.xhtml)
 
 
-### What's special about libjass?
+### What's special about libjass ?
 
 * libjass requires no tweaks to the ASS file from the original video.
 
